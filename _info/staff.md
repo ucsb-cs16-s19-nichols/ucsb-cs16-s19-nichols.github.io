@@ -10,6 +10,6 @@ ready: true
 * email: Email is lawtonnichols [at] cs [dot] ucsb [dot] edu, but please use Piazza for course-related communication.
 * Office hours time and location are available on [course Google Calendar](/info/schedule/)
 
-## Course TAs: Kun Wan and Peter Master
+## Course TAs: Kun Wan and Bay-Yuan Hsu
 
 Contact via Piazza.
