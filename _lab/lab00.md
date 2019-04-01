@@ -27,11 +27,9 @@ If you are enrolled in <i>any</i> CoE course this quarter (including CS24), you 
 
 ## Get setup with github
 
-We will be using github.com in this course.   We have created an organization called ucsb-cs16-f18-nichols on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors and TAs) will be able to see your code and provide you with help, without you having to do anything special.
+We will be using github.com in this course.   We have created an organization called ucsb-cs16-s19-nichols on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors and TAs) will be able to see your code and provide you with help, without you having to do anything special.
 
 ## Get setup with github and adding yourself to our organization
-
-We will be using github.com in this course. We have created an organization called ucsb-cs16-m18 on github.com where you can create repositories (repos) for your assignments in this course. The advantage of creating private repos under this organization is that the course staff (your instructors and TAs) will be able to see your code and provide you with help, without you having to do anything special.
 
 To join this organization, you need to do the following:
 
@@ -39,9 +37,9 @@ To join this organization, you need to do the following:
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CMPSC16, F18, Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. If this step doesn't work for you, ask your TA to add you to the organization manually.
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-S19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. If this step doesn't work for you, ask your TA to add you to the organization manually.
 
-4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-f18-nichols>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-f18-nichols> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
+4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-s19-nichols>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-s19-nichols> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 ## Get setup with gradescope
 

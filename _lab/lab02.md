@@ -64,7 +64,7 @@ Below are the links to different sections of the lab:
 
 ## Step 1b: Create a new repo, add your partner as collaborator and clone the git repo that contains the starter code
 
-* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs16-f18-nichols and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab02_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs16-s19-nichols and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab02_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 * The pilot should add the navigator as a collaborator on github. To do this navigate to the git repo you just created. Choose the settings tab. Then click on the 'Collaborators and teams' option on the left. Scroll all the way down and add the navigator's github account. Then press on the 'Add collaborator' button. Now you and the navigator share the ownership of your git repo. You won't work with your new repo until the end of the lab.
 
@@ -77,10 +77,10 @@ Below are the links to different sections of the lab:
 cd ~/cs16
 ```
 
-* Using the web-browser, navigate to your newly created repo on github. Find the address of your git repo. Click on the green "clone or download button". If your git repo was named lab02_alily_jgaucho, then the git address should something like: "git@github.com:ucsb-cs16-f18-nichols/lab02_alily_jgaucho.git". Now clone your repo into your csil account by typing the following on the terminal, replacing the last argument with the address of your git repo
+* Using the web-browser, navigate to your newly created repo on github. Find the address of your git repo. Click on the green "clone or download button". If your git repo was named lab02_alily_jgaucho, then the git address should something like: "git@github.com:ucsb-cs16-s19-nichols/lab02_alily_jgaucho.git". Now clone your repo into your csil account by typing the following on the terminal, replacing the last argument with the address of your git repo
 
 ```
-git clone git@github.com:ucsb-cs16-f18-nichols/lab02_alily_jgaucho.git
+git clone git@github.com:ucsb-cs16-s19-nichols/lab02_alily_jgaucho.git
 ```
 
 * Type ls to see your new git repo directory and change into that directory

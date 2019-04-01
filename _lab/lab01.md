@@ -62,7 +62,7 @@ If you don't see those files, work with your pair partner to go back through the
 
 ## Create a repo on github in our class organization
 
-For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs16-f18-nichols organization. Follow these steps
+For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs16-s19-nichols organization. Follow these steps
 
 * Navigate to your dashboard on [https://github.com/](https://github.com/). From the left drop down menu, select the class organization
 * Click on the green "New repository" button to create a new repository.
