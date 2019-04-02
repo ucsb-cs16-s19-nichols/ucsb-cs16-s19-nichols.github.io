@@ -2,7 +2,7 @@
 num: "lect01"
 lecture_date: 2019-04-02
 desc: "Course overview, a gentle intro to C++ - Standard I/O"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture1.pdf
 annotatedpdfurl: /lectures/CS16_Lecture1_ann.pdf
 annotatedready: true
@@ -10,7 +10,7 @@ annotatedready: true
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/09-28>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-02>
 
 # Topics
 
