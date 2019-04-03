@@ -37,17 +37,19 @@ To join this organization, you need to do the following:
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-S19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. If this step doesn't work for you, ask your TA to add you to the organization manually.
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-S19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
 
 4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-s19-nichols>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-s19-nichols> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 ## Get setup with gradescope
 
-We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope.
+We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope. **If you weren't invited to gradescope for some reason, give your TA your name, email and perm number, and they can manually add you to the class.**
 
 Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Spring 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
 
 # Implement and submit a simple C++ program 
+
+## Note: If you're using one of the lab machines (and not your own) you can skip to Step 3
 
 ## Step 1: Open a Terminal and write a "Hello World" program 
 
