@@ -10,7 +10,7 @@ lecture_date: 2019-04-04
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-02>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-04>
 
 # Topics
 
@@ -27,3 +27,4 @@ lecture_date: 2019-04-04
 * Uninitialized variables in C++
 * Evaluating C++ expressions
 
+## Intro to Git
