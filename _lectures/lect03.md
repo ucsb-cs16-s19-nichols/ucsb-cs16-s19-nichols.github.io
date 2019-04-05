@@ -1,24 +1,25 @@
 ---
 num: "lect03"
 desc:  "Loops (for, while, do-while), doubles"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture3.pdf
 annotatedpdfurl: /lectures/CS16_Lecture3_ann.pdf
 annotatedready: true
 lecture_date: 2019-04-09
 ---
 
+# Lecture videos
+
+You should change the quality to the highest setting. And I'm sorry that I say "uh" a lot—at least you can watch at twice the speed and get it over with!
+
+- Precedence, assigning using constructors, `cerr` (watch this first): <https://www.youtube.com/watch?v=J5mCrJ3yUlg>
+- Main lecture: <https://www.youtube.com/watch?v=06yplj26938>
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-04>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-09>
 
 # Topics
-
-
-## Github repository creation
-
-See Piazza note about how to add files.
 
 ## Working with doubles
 * Evaluating expressions with mixed numeric types
@@ -59,3 +60,5 @@ One of the powers of computing is being able to do a brute-force search for a so
 Horses cost $10, pigs cost $3, and rabbits are only $0.50. A farmer buys 100 animals for $100, How many of each animal did he buy?  
 
 Write a program to do this.
+
+## Precedence
