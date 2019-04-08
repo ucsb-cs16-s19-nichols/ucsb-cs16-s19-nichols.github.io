@@ -9,6 +9,14 @@ due: 2019-04-16 23:59:00.00-7
 
 <div markdown="1">
 
+## Warning: The Autograder Is Picky 
+
+You might get the error: `No such file or directory: ./blah` in this and future labs. It doesn't seem like it, but this error means that something didn't compile. This section explains why.
+
+Even if you only want partial credit for this lab, **you have to submit every single file** that the lab asks you to turn in. That means, every time you use the autograder for this lab, **you have to submit min4.cpp, pi.cpp, and block.cpp or you will get a score of 0**. The files don't have to be correct—they only have to exist and compile. For example, if you only worked on min4.cpp and want partial credit for it, you should create files called pi.cpp and block.cpp with only a simple main function inside them. That way, pi.cpp and block.cpp will compile (and fail all their tests), but the autograder will be able to run the min4 tests and give you credit for those.
+
+The reason this happens is because the autograder needs to compile all the programs before it can start running its tests.
+
 ## Goals for this lab
 
 In this lab you will get practice 
