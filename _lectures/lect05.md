@@ -8,11 +8,9 @@ annotatedready: true
 lecture_date: 2019-04-16
 ---
 
-<!--
-
 # Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-11>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-16>
 
 # Super Sweet Makefile Tutorial
 
@@ -48,7 +46,3 @@ We will then look at how to link all the object files into an executable using t
 ```
 g++ file1.o file2.o file3.o -o finalexecuatble
 ```
-
-
-
--->
