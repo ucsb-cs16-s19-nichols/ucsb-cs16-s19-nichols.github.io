@@ -1,16 +1,24 @@
 ---
 num: "lect05"
-desc: "TDD"
-ready: false
+desc: "Makefiles"
+ready: true
 pdfurl: /lectures/CS16_Lecture5.pdf
 annotatedpdfurl: /lectures/CS16_Lecture5_ann.pdf
 annotatedready: true
 lecture_date: 2019-04-16
 ---
 
+<!--
+
 # Code from lecture
 
 <https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-11>
+
+# Super Sweet Makefile Tutorial
+
+<https://docs.google.com/document/d/1Kf8RbENqHVzGIEJnDQVKBbS_zoOeJHh5YzYTHqJfuRA/edit?usp=sharing>
+
+Made by Jacqui Mai, Professor K, and me.
 
 # Topics
 
@@ -43,3 +51,4 @@ g++ file1.o file2.o file3.o -o finalexecuatble
 
 
 
+-->
