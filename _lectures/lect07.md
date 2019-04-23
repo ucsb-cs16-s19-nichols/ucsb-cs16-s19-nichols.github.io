@@ -1,7 +1,7 @@
 ---
 num: "lect07"
 desc: "File I/O"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture7.pdf
 annotatedpdfurl: /lectures/CS16_Lecture7_ann.pdf
 annotatedready: true
@@ -10,7 +10,7 @@ lecture_date: 2019-04-23
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-16>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-23>
 
 # Topics
 ## File I/O basics
