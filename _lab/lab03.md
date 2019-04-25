@@ -4,7 +4,7 @@ num: lab03
 ready: true
 desc: "Counting ducks: File I/O and flow control"
 assigned: 2019-04-24 09:00:00.00-8
-due: 2019-04-30 23:59:00.00-7
+due: 2019-05-01 23:59:00.00-7
 ---
 
 
