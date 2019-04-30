@@ -1,12 +1,14 @@
 ---
 num: "lect08"
 desc: "Arrays"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture8.pdf
 annotatedpdfurl: /lectures/CS16_Lecture8_ann.pdf
 annotatedready: true
 lecture_date: 2019-04-30
 ---
+
+<!--
 # Code from lecture
 <https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-23>
 
@@ -32,3 +34,4 @@ lecture_date: 2019-04-30
 * Tracing code involving arrays
 * Array pitfalls: out of bound array access
 
+-->
