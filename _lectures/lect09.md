@@ -8,10 +8,9 @@ annotatedready: true
 lecture_date: 2019-05-02
 ---
 
-<!--
-
 ## Code from lecture
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/10-30>
+
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-02>
 
 # Topics
 
@@ -28,6 +27,3 @@ lecture_date: 2019-05-02
 * Function calls use the run-time stack, we'll see how and why that's important
 * Review of pass by value
 * Passing parameters to functions by address
-
-
--->
