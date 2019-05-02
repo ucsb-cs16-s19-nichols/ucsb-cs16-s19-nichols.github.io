@@ -10,7 +10,12 @@ lecture_date: 2019-04-30
 
 
 # Code from lecture
+
 <https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-30>
+
+# Kevin's notes
+
+[Follow this link to access the notes](/lectures/CS16_Lecture8_Notes.docx){:data-ajax="false"}
 
 ## Under the hood of program compilation and execution
 * From high-level programs to machine code
