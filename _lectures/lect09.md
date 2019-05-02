@@ -12,6 +12,10 @@ lecture_date: 2019-05-02
 
 <https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-02>
 
+# Kevin's notes
+
+[Follow this link to access the notes](/lectures/CS16_Lecture9_Notes.docx){:data-ajax="false"}
+
 # Topics
 
 ## Pointers
