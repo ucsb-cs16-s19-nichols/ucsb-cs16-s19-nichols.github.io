@@ -9,7 +9,7 @@ layout: default
 * **Lecture**: TR 12:30pm--1:45pm GIRV 2128 , ATTENDANCE IS HIGHLY RECOMMENDED.
 * **Lab**:(50 minute discussion sections) Wednesdays starting at 4pm, 5pm, or 6pm in Phelps 3525.
 
-## Schedule of office hours.
+## Schedule of office hours
 
 Please check for updates on our Google calendar on a daily basis.
 
@@ -17,3 +17,7 @@ Please check for updates on our Google calendar on a daily basis.
 
 Trailer 936 location: [(Google Maps link here)](https://goo.gl/maps/5P8RwH86sFq)<br />
 ![Trailer 936 location](/images/936.png)
+
+## Schedule of open labs
+
+<img src="/info/openlabs.png" alt="Open lab hours" width="666px" />
