@@ -253,9 +253,7 @@ Go throught the same submit process you have in past labs. Make sure you add you
 
 # Grading Rubric
 
-Some of the points will be awarded based on gradescope automatic grading. Other points will be assigned after visual code inspection by TAs.
-
-## Submit.cs system automatic points
+## Gradescope Points
 
 <table border="1">
 <tr><th>Test Name</th><th>Value</th></tr>

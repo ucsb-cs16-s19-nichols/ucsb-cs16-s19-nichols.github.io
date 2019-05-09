@@ -1,12 +1,14 @@
 ---
 num: "lect11"
 desc: "The good, bad and ugly about pointers, C++ Memory Model, Dynamic memory allocation (Heap), Heap vs Stack"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture11.pdf
 annotatedpdfurl: /lectures/CS16_Lecture11_ann.pdf
 annotatedready: true
 lecture_date:  2019-05-09
 ---
+
+<!--
 
 ## Code from lecture
 
@@ -39,3 +41,6 @@ The ugly
 
 * A first look at dynamic memory allocation
 * The hows and whys of creating data on the stack vs. heap
+
+
+-->
