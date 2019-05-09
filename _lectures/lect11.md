@@ -8,13 +8,18 @@ annotatedready: true
 lecture_date:  2019-05-09
 ---
 
-<!--
-
 ## Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-06>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-09>
 
+## Stuff I wrote on the "whiteboard"
 
+Go here and click on the appropriate date:
+<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
+
+## Kevin's Notes
+
+[Follow this link to access the notes](/lectures/CS16_Lecture11_Notes.docx){:data-ajax="false"}
 
 # Topics
 
@@ -42,5 +47,3 @@ The ugly
 * A first look at dynamic memory allocation
 * The hows and whys of creating data on the stack vs. heap
 
-
--->
