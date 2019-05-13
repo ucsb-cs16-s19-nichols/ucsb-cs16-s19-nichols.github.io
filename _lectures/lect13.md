@@ -1,6 +1,6 @@
 ---
 num: "lect13"
-desc: "More Linked lists, Midterm Review"
+desc: "More Linked lists"
 ready: false
 pdfurl: /lectures/CS16_Lecture12.pdf
 annotatedpdfurl: /lectures/CS16_Lecture13_ann.pdf
