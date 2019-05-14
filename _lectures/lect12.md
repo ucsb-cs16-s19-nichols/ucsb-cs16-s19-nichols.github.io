@@ -8,14 +8,14 @@ annotatedready: true
 lecture_date: 2019-05-14
 ---
 
-<!--
-
 ## Code from lecture
 
-<https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-08>
+<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-14>
 
+## Stuff I wrote on the "whiteboard"
 
-
+Go here and click on the appropriate date:
+<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
 
 # Topics
 
@@ -23,6 +23,3 @@ lecture_date: 2019-05-14
 * Iterating through linked lists using traversal pointers
 * Creating an empty list
 * Inserting in a list
-
-
--->
