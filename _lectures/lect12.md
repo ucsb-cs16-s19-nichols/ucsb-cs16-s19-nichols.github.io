@@ -1,12 +1,14 @@
 ---
 num: "lect12"
 desc: "Linked lists, Dynamic memory allocation (Heap), Heap vs Stack"
-ready: false
+ready: true
 pdfurl: /lectures/CS16_Lecture12.pdf
 annotatedpdfurl: /lectures/CS16_Lecture12_ann.pdf
 annotatedready: true
 lecture_date: 2019-05-14
 ---
+
+<!--
 
 ## Code from lecture
 
@@ -23,3 +25,4 @@ lecture_date: 2019-05-14
 * Inserting in a list
 
 
+-->
