@@ -14,4 +14,7 @@ lecture_date: 2019-05-21
 
 <https://github.com/ucsb-cs16-f18-nichols/code-from-class/tree/master/11-13>
 
+## Kevin's Notes
+
+[Follow this link to access the notes](/lectures/CS16_Lecture13_Notes.docx){:data-ajax="false"}
 -->
