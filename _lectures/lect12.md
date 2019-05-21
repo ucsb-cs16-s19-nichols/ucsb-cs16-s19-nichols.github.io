@@ -17,6 +17,10 @@ lecture_date: 2019-05-14
 Go here and click on the appropriate date:
 <https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
 
+## Kevin's Notes
+
+[Follow this link to access the notes](/lectures/CS16_Lecture12_Notes.docx){:data-ajax="false"}
+
 # Topics
 
 * Linked-lists
