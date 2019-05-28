@@ -26,3 +26,22 @@ Go here and click on the appropriate date:
 * Thinking recursively about problems on sequences
 * Recursion vs. iteration via examples: printing elements of an array in order, summing elements of a linked-list
 * Order is very important: one line in the wrong spot makes you print the elements in reverse order
+
+
+* How do we know our recursive solution is correct? Proof by induction
+* Is recursive better than iterative?
+* Problems that have a naturally recursive solution
+* Under the hood of recursive functions (how recursive functions use the stack)
+* Helper functions
+* Recursion on strings
+* Linked-list problems - freeing all nodes in a linked-list
+
+
+* Deleting a single node in the linked-list (recursive)
+* Deleting all nodes in the linked-list (highlight issues with dynamic memory management)
+
+
+* char arrays, C-strings and string literals
+* Basic operations on C-Strings s
+* String class objects and methods (similarities and differences with c-strings)
+* Understanding the problems for lab08 - isAnagram
