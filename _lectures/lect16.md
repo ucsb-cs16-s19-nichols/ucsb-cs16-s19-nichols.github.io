@@ -2,7 +2,7 @@
 num: "lect16"
 desc: "Wrap up"
 ready: false
-pdfurl: /lectures/CS16_Lecture16.pdf
+pdfurl: /lectures/CS16_Lecture15.pdf
 annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
 annotatedready: true
 lecture_date: 2019-05-30

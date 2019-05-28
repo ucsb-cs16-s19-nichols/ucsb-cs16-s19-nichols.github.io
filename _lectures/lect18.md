@@ -2,7 +2,7 @@
 num: "lect18"
 desc: "Wrap up and final review"
 ready: false
-pdfurl: /lectures/CS16_Lecture17.pdf
+pdfurl: /lectures/CS16_Lecture15.pdf
 annotatedpdfurl: /lectures/CS16_Lecture17_ann.pdf
 annotatedready: true
 lecture_date: 2019-06-06
