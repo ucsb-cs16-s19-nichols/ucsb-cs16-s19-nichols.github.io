@@ -1,6 +1,6 @@
 ---
 num: "lect16"
-desc: "Recursion wrap up"
+desc: "Wrap up"
 ready: false
 pdfurl: /lectures/CS16_Lecture16.pdf
 annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
